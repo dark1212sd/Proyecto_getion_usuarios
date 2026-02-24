@@ -33,7 +33,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [ENLACE_DE_TU_REPOSITORIO]
+   git clone https://github.com/dark1212sd/Proyecto_getion_usuarios
    cd coleccion-proyecto
    ```
 2. **Instalar dependencias:**
