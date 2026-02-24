@@ -3,7 +3,7 @@ Proyecto de Gestión de Usuarios - Node.js & MongoDB
 Este proyecto es una aplicación web desarrollada para la evaluación de la plataforma **Unetieduca**. Consiste en un sistema de gestión que permite realizar operaciones CRUD (Crear, Leer, Actualizar y Borrar) sobre una base de datos NoSQL, integrando validaciones de datos específicas para el contexto venezolano.
 
 ## 👥 Integrantes del Grupo
-* **Emerson [Tu Apellido]**
+* **Emerson Tarazona**
 * **Carlos Carrizales**
 * **Abraham Sojo**
 
